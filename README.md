@@ -1,6 +1,6 @@
 # Hello there 👋
 
-### My name is Gustavo Jose, i am a IFPE student of the Internet Systemas course. I aspire to become a Web Developer with a focus of being a Back-End expert, but also be capable to work in Front-End. I'm currently learning Java Spring Boot for Back-End applications and Docker.
+### My name is Gustavo Jose, i am a IFPE student of the Internet Systems course. I aspire to become a Web Developer with a focus of being a Back-End expert, but also be capable of working in Front-End. I'm currently learning Java Spring Boot for Back-End applications and Docker.
 
 ## Github Stats
 <div>
