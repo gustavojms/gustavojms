@@ -31,6 +31,7 @@
   ### Database
   <div style="display: inline_block">
     <img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img align="center" src="https://img.shields.io/badge/MongoDB-00684A?style=for-the-badge&logo=mongodb&logoColor=green"/>
   </div>
     
   ### Tools
