@@ -1,6 +1,6 @@
 # Hello there 👋
 
-### My name is Gustavo Jose, i am a IFPE student of the Internet Systems course. I aspire to become a Web Developer with a focus of being a Back-End expert, but also be capable of working in Front-End. I'm currently learning Java Spring Boot for Back-End applications and Docker.
+### My name is Gustavo Jose. I am a student of the Internet Systems course at IFPE. Currently, I work on the Back-End using Java, the Spring framework, and Postgresql. I'm always striving to improve my coding skills and expand my knowledge of web development.
 
 ## Github Stats
 <div>
@@ -16,6 +16,7 @@
     <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+    <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
     
@@ -23,7 +24,7 @@
   
    ### Frameworks  
   <div style="display: inline_block">
-    <img align="center" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"/>
+    <img align="center" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   </div>
@@ -31,6 +32,7 @@
   ### Database
   <div style="display: inline_block">
     <img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/MongoDB-00684A?style=for-the-badge&logo=mongodb&logoColor=green"/>
   </div>
     
