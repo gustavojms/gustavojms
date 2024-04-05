@@ -37,7 +37,7 @@
   ## Contact
   
   <div>
-    <a href="https://www.linkedin.com/in/gustavo-jos%C3%A9-130869226/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/gustavojms/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href=mailto:gustavo.josems1@gmail.com target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href=mailto:gustavo.joset0@hotmail.com target="_blank"><img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&link=mailto:gustavo.joset0@hotmail.com">
     </a>
