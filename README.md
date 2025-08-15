@@ -1,7 +1,5 @@
 # Hello there 👋
 
-### I'm Gustavo Jose, a Software Developer at Sulwork, a Health Tech company headquartered in Porto Alegre. My current role involves engaging in diverse and fascinating projects, primarily focused on API integrations. I specialize in ensuring the seamless integration of our products into various health systems, contributing to their reliability and effectiveness.
-
 ## Github Stats
 <div>
   <a href="https://github.com/gustavojms">
